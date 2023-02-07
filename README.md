@@ -19,7 +19,12 @@ THEN I find a detailed explanation of what a specific component of the regex doe
 WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 
-## # Installation
+
+## Screenshots
+<img width="580" alt="Capture" src="https://user-images.githubusercontent.com/113950240/217386427-26899775-270f-4674-b815-1e020d5bb635.PNG">
+
+
+##  Installation
 
 * Download or clone repository
 
